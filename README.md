@@ -4,4 +4,4 @@ Semester: 1
 
 Author: Mustafa Ahmad
 
-Detail: Present in attached pdf.
+Detail: Present in attached pdf
