@@ -1,5 +1,3 @@
-Written in C.
-
-Semester 1.
-
+Language: C
+Semester: 1
 Author: Mustafa Ahmad
