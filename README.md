@@ -1,7 +1,7 @@
-Language: C
+<b>Language: C
 
-Semester: 1
+<b>Semester: 1
 
-Author: Mustafa Ahmad
+<b>Author: Mustafa Ahmad
 
-Detail: Present in attached pdf
+<b>Detail: Present in attached pdf
